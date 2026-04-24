@@ -1,0 +1,13 @@
+PHASE_OF_FLIGHT,total_strikes,minor,substantial,destroyed
+Approach,88268,3319,1042,14
+Landing Roll,37578,964,426,15
+Take-off Run,34577,769,882,15
+Climb,30595,1578,1117,16
+En Route,6246,721,517,26
+Departure,4008,21,9,1
+Descent,2961,196,51,1
+Local,1504,24,13,0
+Arrival,1093,11,4,0
+Taxi,799,18,8,0
+Parked,115,1,1,1
+Unknown,10,0,0,0
