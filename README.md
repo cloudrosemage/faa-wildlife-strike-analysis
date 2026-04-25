@@ -1,5 +1,7 @@
 **FAA Wildlife Strike Analysis · 1990–2025**
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 An end-to-end data analytics project exploring 35 years of wildlife strike incidents reported to the Federal Aviation Administration. This project covers the full analytics workflow — from raw data acquisition and cross-reference verification, SQL-based exploration in JetBrains DataGrip, and interactive Power BI dashboard development, to professional stakeholder documentation across Notion, GitHub, and a Canva report.
 
 **Overview**
