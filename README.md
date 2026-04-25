@@ -32,9 +32,9 @@ Annual strike volume grew from approximately 2,000 incidents in 1990 to over 23,
 
 **Project Documentation**
 
-📄 Stakeholder Report — Full Canva PDF report tailored for private and government audiences
-📋 Notion Process Documentation — Complete step-by-step documentation of the full analytics workflow
-💾 GitHub Repository — github.com/cloudrosemage/faa-wildlife-strike-analysis
+- 📄 **Stakeholder Report** — [Full Canva PDF Report](https://canva.link/faaaviationwildlifeanalyticsreport)
+- 📋 **Notion Process Documentation** — [Complete Step-by-Step Workflow](https://www.notion.so/Aviation-Wildlife-Strikes-An-Analysis-of-Wildlife-Strikes-Across-Airports-Throughout-the-United-Sta-34bcec93c31b80a59f6de90621fb6495?source=copy_link)
+- 💾 **GitHub Repository** — [cloudrosemage/faa-wildlife-strike-analysis](https://github.com/cloudrosemage/faa-wildlife-strike-analysis)
 
 **Tools & Workflow**
 
